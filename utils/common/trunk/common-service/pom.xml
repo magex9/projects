@@ -4,7 +4,6 @@
 	<groupId>ca.magex.utils.common</groupId>
 	<artifactId>common-service</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
 	
 	<scm>
 		<developerConnection>scm:svn:https://github.com/magex9/project.git/master/common-service</developerConnection>
